@@ -212,11 +212,11 @@ def greedy_minimum_dominating_set(nxG, times):
 
 if __name__ == '__main__':
     ## 文件路径，要计算的数据的文件夹
-    data_path = "D:\\pycharm\\workspace\\brainNetwork_pcy_test\\symptom_network_juan\\data\\"
+    data_path = "********************* insert you data path *********************"
     ## 文件路径，文件要保存到的文件夹
-    result_path = "D:\\pycharm\\workspace\\brainNetwork_pcy_test\\symptom_network_juan\\result\\"
+    result_path = "********************* insert you result path *********************"
     ## 要计算的网络名字
-    data_file = "T0self141items_all_tocy"
+    data_file = "********************* insert you network name to calculate *********************"
 
     # 读取csv,生成pd
     pd_data = pd.read_csv(data_path+data_file+".csv")
