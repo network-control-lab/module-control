@@ -138,8 +138,8 @@ def edge_robust_test(data_path,save_path,num_samples,sample_size,alpha):
 if __name__ == '__main__':
 
     # source data
-    data_path = "D:\\pycharm\\workspace\\brainNetwork_pcy_test\\symptom_network_juan\\data\\T0self141items_all_tocy.csv"
-    save_path = "D:\\pycharm\\workspace\\brainNetwork_pcy_test\\symptom_network_juan\\result\\"
+    data_path = "********************* insert you data path *********************"
+    save_path = "********************* insert you result path *********************"
 
     # 随机抽样次数
     num_samples = 1000
