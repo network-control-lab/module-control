@@ -1,4 +1,4 @@
-# Module Control of Complex Network
+# Module control of complex network
 
 #### Calculate the control powers between modules (obtained by Louvain algorithm) based on the minimum dominating set (MDSet).
 
