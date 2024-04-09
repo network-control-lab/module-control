@@ -3,7 +3,7 @@
 #### Calculate the control powers between modules (obtained by Louvain algorithm) based on the minimum dominating set (MDSet).
 
 ### This method was cited in:
-#### 1. **_"Module control of network analysis in psychopathology." pan et al._**
+#### 1. **_"Module control of network analysis in psychopathology." Pan et al._**
 
 ### Project explanation:
 #### 1. "/main.py"
